@@ -42,5 +42,3 @@ Transformando la lógica de negocio en sistemas escalables e interfaces intuitiv
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,kubernetes,aws,gcp,git,linux&perline=8" />
 </div>
 
-    style Capa_Logica fill:#161b22,stroke:#009688,stroke-width:2px,color:#fff
-    style Capa_Datos fill:#161b22,stroke:#316192,stroke-width:2px,color:#fff

@@ -4,7 +4,7 @@
   <h3>Full Stack Developer • UI/UX Designer • Data & Cloud Enthusiast</h3>
   
   <p>
-    Building end-to-end software solutions: from intuitive interfaces and native mobile apps to scalable microservices and data pipelines.
+    Data & Product Engineer | Full Stack & Cloud Architecture | Business Intelligence Strategy | R&D in Smart Industry | Software Engineering Student
   </p>
 
   <!-- Enlaces Directos -->

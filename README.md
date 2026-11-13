@@ -44,11 +44,11 @@
 
 ### 🏗️ Featured Projects
 
-| Proyecto | Arquitectura / Stack | Descripción |
+| Project | Architecture / Stack  | Description |
 | :--- | :--- | :--- |
 | **E-Commerce & BI Pipeline** | `React` • `FastAPI` • `n8n` • `PostgreSQL` | Comprehensive e-commerce architecture connected to automation workflows and data analytics. |
-| **Sistema de Gestión Ferretería** | `Kotlin` • `Android` • `SQLite` | Native mobile app with local relational persistence for inventory and sales control. |
-| **Sistema de Conteo Electoral** | `Kotlin` • `Android` • `SQLite` | Mobile app designed with an Offline-First approach for field registration and validation of voting records. |
+| **Hardware Store Management System** | `Kotlin` • `Android` • `SQLite` | Native mobile app with local relational persistence for inventory and sales control. |
+| **Electoral Vote Counting System** | `Kotlin` • `Android` • `SQLite` | Mobile app designed with an Offline-First approach for field registration and validation of voting records. |
 
 ---
 

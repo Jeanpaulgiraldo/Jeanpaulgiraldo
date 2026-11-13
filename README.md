@@ -20,10 +20,10 @@
 
 ### 🧠 About Me & Architecture Approach
 
-* 🔭 **Actualmente:** Desarrollando arquitecturas modulares que integran frontend reactivo, aplicaciones móviles en Kotlin, backends en FastAPI/C# y automatización de flujos.
-* 🎯 **Especialización en curso:** Ingeniería de Software con enfoque en **Calidad de Datos (Data Quality)**, Business Intelligence (ETL/ELT) y arquitectura Cloud/Kubernetes.
-* 🎨 **Diferenciador:** Combino el desarrollo técnico con formación en **Diseño Gráfico y UI/UX**, asegurando que cada sistema no solo escale en el servidor, sino que ofrezca una experiencia clara para el usuario final.
-* 📍 **Ubicación:** Medellín, Colombia.
+* 🔭 **Currently:** Developing modular architectures integrating reactive frontends, Kotlin mobile apps, FastAPI/C# backends, and workflow automation.
+* 🎯 **Current Specialization::** Software Engineering with a focus on Data Quality, Business Intelligence (ETL/ELT), and Cloud/Kubernetes architecture.
+* 🎨 **Differentiator::** I combine technical development with a background in Graphic Design and UI/UX, ensuring that every system not only scales on the server but also delivers a clear, seamless experience for the end user.
+* 📍 **📍 Location: ** Medellín, Colombia.
 
 ---
 
@@ -42,13 +42,13 @@
 </div>
 ---
 
-### 🏗️ Proyectos Destacados
+### 🏗️ Featured Projects
 
 | Proyecto | Arquitectura / Stack | Descripción |
 | :--- | :--- | :--- |
-| **E-Commerce & BI Pipeline** | `React` • `FastAPI` • `n8n` • `PostgreSQL` | Arquitectura integral de comercio electrónico conectada a flujos de automatización y analítica de datos. |
-| **Sistema de Gestión Ferretería** | `Kotlin` • `Android` • `SQLite` | Aplicación móvil nativa con persistencia relacional local para control de inventario y ventas. |
-| **Sistema de Conteo Electoral** | `Kotlin` • `Android` • `SQLite` | App móvil diseñada bajo enfoque Offline-First para registro y validación de actas en campo. |
+| **E-Commerce & BI Pipeline** | `React` • `FastAPI` • `n8n` • `PostgreSQL` | Comprehensive e-commerce architecture connected to automation workflows and data analytics. |
+| **Sistema de Gestión Ferretería** | `Kotlin` • `Android` • `SQLite` | Native mobile app with local relational persistence for inventory and sales control. |
+| **Sistema de Conteo Electoral** | `Kotlin` • `Android` • `SQLite` | Mobile app designed with an Offline-First approach for field registration and validation of voting records. |
 
 ---
 

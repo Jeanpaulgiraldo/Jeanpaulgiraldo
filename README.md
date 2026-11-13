@@ -41,20 +41,3 @@ Transformando la lógica de negocio en sistemas escalables e interfaces intuitiv
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,kubernetes,aws,gcp,git,linux&perline=8" />
 </div>
 
----
-
-<!-- ARQUITECTURA DE TRABAJO -->
-### 🏗️ Flujo de Arquitectura
-
-```mermaid
-graph TD
-    UI[📱 Interfaces: Kotlin & React] <-->|API REST| CORE[⚙️ Lógica: FastAPI, C#, n8n]
-    CORE <--> DB[(🗄️ Datos: PostgreSQL & SQLite)]
-    DB --> BI[📊 BI & Data Quality]
-    CORE -.-> CLOUD((☁️ Despliegue: Docker, K8s))
-
-    style UI fill:#161B22,stroke:#FF6B00,stroke-width:2px,color:#FFF
-    style CORE fill:#161B22,stroke:#38BDF8,stroke-width:2px,color:#FFF
-    style DB fill:#161B22,stroke:#10B981,stroke-width:2px,color:#FFF
-    style BI fill:#161B22,stroke:#F59E0B,stroke-width:2px,color:#FFF
-    style CLOUD fill:#161B22,stroke:#8B5CF6,stroke-width:2px,color:#FFF

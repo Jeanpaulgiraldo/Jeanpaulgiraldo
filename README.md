@@ -54,7 +54,19 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<!-- STACK TECNOLÓGICO VISUAL -->
+### 🧩 Stack Tecnológico
 
+<div align="center">
+  <p><b>Frontend & Mobile</b></p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,kotlin,androidstudio,figma&perline=8" />
+  
+  <p><b>Backend & Automatización</b></p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cs,java&perline=8" />
+  
+  <p><b>Datos, Cloud & DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,kubernetes,aws,gcp,git,linux&perline=8" />
+</div>
 ---
 
 ### 🏗️ Proyectos Destacados

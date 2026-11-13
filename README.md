@@ -1,6 +1,6 @@
 <!-- Banner o Encabezado Visual -->
 <div align="center">
-  <h1>Hola, soy Jean Paul Giraldo 👋</h1>
+  <h1>Hi, I am Jean Paul Giraldo 👋</h1>
   <h3>Full Stack Developer • UI/UX Designer • Data & Cloud Enthusiast</h3>
   
   <p>

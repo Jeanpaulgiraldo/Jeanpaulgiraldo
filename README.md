@@ -14,29 +14,33 @@
   </p>
 </div>
 
+<br/>
+
+<!-- SECCIÓN DE PERFIL -->
+### ⚡ Ingeniería, Diseño y Datos
+
+Transformando la lógica de negocio en sistemas escalables e interfaces intuitivas. Actualmente perfeccionando mi base técnica en la Institución Universitaria Pascual Bravo, opero como un perfil híbrido que no solo construye el código, sino que diseña la arquitectura, orquesta los datos y define la experiencia visual.
+
+* 🛠️ **Arquitectura End-to-End:** Construcción de microservicios (FastAPI/C#), aplicaciones móviles nativas (Kotlin/Offline-First) e interfaces reactivas.
+* 📊 **Business Intelligence:** Especialización en Data Quality, infraestructura de datos (SQL/PostgreSQL) y pipelines ETL.
+* 🎨 **UI/UX Estratégico:** Conceptualización visual y diseño centrado en el usuario, garantizando que el software potente también sea fácil de usar.
+* ☁️ **Certificaciones Cloud & AI:** Credenciales activas en AWS, Google Cloud e IBM (Generative AI, LLMs y Cloud Computing).
+
 ---
 
-### 📐 Arquitectura de mi Perfil (Ecosistema End-to-End)
+<!-- STACK TECNOLÓGICO VISUAL -->
+### 🧩 Stack Tecnológico
 
-```mermaid
-flowchart LR
-    subgraph Capa_Visual [🎨 Frontend & Mobile]
-        A[UI/UX Design] --> B(React / TypeScript)
-        A --> C(Kotlin / Android)
-    end
+<div align="center">
+  <p><b>Frontend & Mobile</b></p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,kotlin,androidstudio,figma&perline=8" />
+  
+  <p><b>Backend & Automatización</b></p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cs,java&perline=8" />
+  
+  <p><b>Datos, Cloud & DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,kubernetes,aws,gcp,git,linux&perline=8" />
+</div>
 
-    subgraph Capa_Logica [⚙️ Backend & Automatización]
-        B & C <-->|API REST / JSON| D{FastAPI / C#}
-        D <--> E[n8n Workflows]
-    end
-
-    subgraph Capa_Datos [🗄️ Datos, BI & Cloud]
-        C -.->|Offline-First| F[(SQLite)]
-        D <--> G[(PostgreSQL)]
-        G --> H[ETL & Data Quality]
-        D & G -.-> I((Docker / K8s / Cloud))
-    end
-
-    style Capa_Visual fill:#161b22,stroke:#FF6B00,stroke-width:2px,color:#fff
     style Capa_Logica fill:#161b22,stroke:#009688,stroke-width:2px,color:#fff
     style Capa_Datos fill:#161b22,stroke:#316192,stroke-width:2px,color:#fff

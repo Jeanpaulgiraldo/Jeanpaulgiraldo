@@ -1,39 +1,42 @@
-<!-- NEURAL INTERFACE HEADER -->
+<!-- Encabezado Dinámico con Efecto de Escritura (Typing SVG) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:031633,100:FF6B00&height=220&section=header&text=Jean%20Paul%20Giraldo&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Architect%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Data%20%26%20Cloud&descSize=18&descColor=FF6B00" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=>_SYSTEM+READY;>_INITIALIZING+NEURAL+INTERFACE...;>_LOAD_PROFILE_+JEAN_PAUL" alt="Typing effect" />
-</div>
-
-<div align="center">
-  <a href="https://jeanpaulgiraldo.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio_Web-031633?style=flat-square&logo=github&logoColor=FF6B00" />
+  <a href="https://jeanpaulgiraldo.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF6B00&center=true&vCenter=true&width=750&lines=Jean+Paul+Giraldo+%7C+Full+Stack+Architect;UI%2FUX+Design+%2B+Software+Engineering;Mobile+(Kotlin)+%7C+Backend+(FastAPI+%2F+C%23);Data+Quality%2C+BI+Pipelines+%26+Cloud" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/jean-paul-giraldo-6b59a5275" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-031633?style=flat-square&logo=linkedin&logoColor=0A66C2" />
-  </a>
+
+  <p>
+    <a href="https://jeanpaulgiraldo.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portafolio_Web-111111?style=for-the-badge&logo=githubpages&logoColor=FF6B00" />
+    </a>
+    <a href="https://www.linkedin.com/in/jean-paul-giraldo-6b59a5275" target="_blank">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-<br/>
+---
 
-### 🧬 ABOUT.ME // SYS_CONFIG
+### 📐 Arquitectura de mi Perfil (Ecosistema End-to-End)
 
-```yaml
-user:
-  name: "Jean Paul Giraldo"
-  role: ["Full-Stack Architect", "UI/UX Designer", "Data Enthusiast"]
-  location: "Medellín, Antioquia, CO"
-  status: "Building | Architecting | Scaling"
+```mermaid
+flowchart LR
+    subgraph Capa_Visual [🎨 Frontend & Mobile]
+        A[UI/UX Design] --> B(React / TypeScript)
+        A --> C(Kotlin / Android)
+    end
 
-passion:
-  - End-to-End Architecture
-  - UI/UX & Digital Product Design
-  - Data Quality & Business Intelligence
-  - Mobile Native (Offline-First)
+    subgraph Capa_Logica [⚙️ Backend & Automatización]
+        B & C <-->|API REST / JSON| D{FastAPI / C#}
+        D <--> E[n8n Workflows]
+    end
 
-interests:
-  - Cloud Infrastructure & Kubernetes
-  - Generative AI & LLMs
-  - E-commerce Strategy & Automation
+    subgraph Capa_Datos [🗄️ Datos, BI & Cloud]
+        C -.->|Offline-First| F[(SQLite)]
+        D <--> G[(PostgreSQL)]
+        G --> H[ETL & Data Quality]
+        D & G -.-> I((Docker / K8s / Cloud))
+    end
+
+    style Capa_Visual fill:#161b22,stroke:#FF6B00,stroke-width:2px,color:#fff
+    style Capa_Logica fill:#161b22,stroke:#009688,stroke-width:2px,color:#fff
+    style Capa_Datos fill:#161b22,stroke:#316192,stroke-width:2px,color:#fff

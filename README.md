@@ -56,9 +56,4 @@
 * ☁️ **Cloud & AI:** Cloud Fundamentals for Startups & Advanced Generative AI (**AWS**) • Cloud Computing & Generative AI (**Google**)
 * 🤖 **Data & Inteligencia Artificial:** AI, LLMs, NLP & Computer Vision (**IBM**) • Business Intelligence & Data Science
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanpaulgiraldo&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpaulgiraldo&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>

@@ -4,7 +4,7 @@
   <h3>Full Stack Developer • UI/UX Designer • Data & Cloud Enthusiast</h3>
   
   <p>
-    Construyendo soluciones de software de extremo a extremo: desde interfaces intuitivas y aplicaciones móviles nativas hasta microservicios escalables y pipelines de datos.
+    Building end-to-end software solutions: from intuitive interfaces and native mobile apps to scalable microservices and data pipelines.
   </p>
 
   <!-- Enlaces Directos -->
@@ -18,7 +18,7 @@
 
 ---
 
-### 🧠 Sobre mí & Enfoque de Arquitectura
+### 🧠 About Me & Architecture Approach
 
 * 🔭 **Actualmente:** Desarrollando arquitecturas modulares que integran frontend reactivo, aplicaciones móviles en Kotlin, backends en FastAPI/C# y automatización de flujos.
 * 🎯 **Especialización en curso:** Ingeniería de Software con enfoque en **Calidad de Datos (Data Quality)**, Business Intelligence (ETL/ELT) y arquitectura Cloud/Kubernetes.

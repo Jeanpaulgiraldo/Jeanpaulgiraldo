@@ -9,6 +9,7 @@
       <img src="https://img.shields.io/badge/🌐_Portafolio_Web-111111?style=for-the-badge&logo=githubpages&logoColor=FF6B00" />
     </a>
     <a href="https://www.linkedin.com/in/jean-paul-giraldo-6b59a5275" target="_blank">
+ 
       <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>

@@ -52,7 +52,7 @@
 
 ---
 
-### 📜 Certificaciones Clave
+### 📜 key certificate
 * ☁️ **Cloud & AI:** Cloud Fundamentals for Startups & Advanced Generative AI (**AWS**) • Cloud Computing & Generative AI (**Google**)
 * 🤖 **Data & Inteligencia Artificial:** AI, LLMs, NLP & Computer Vision (**IBM**) • Business Intelligence & Data Science
 
